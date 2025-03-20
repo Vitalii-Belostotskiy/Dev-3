@@ -1,0 +1,11 @@
+.string {
+  letter-spacing: 5px;
+  min-height: 40px;
+}
+.selected {
+  color: green;
+}
+span {
+  cursor: grab;
+  user-select: none;
+}
